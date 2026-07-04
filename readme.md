@@ -98,7 +98,7 @@ Final synthesized answer back to user
 
 ---
 
-## Submission write-up (paste-ready)
+## Submission write-up 
 
 **Project: AI Coding Assistant (Agentic Framework)**
 
